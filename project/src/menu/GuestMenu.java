@@ -1,7 +1,6 @@
 package menu;
 
 import java.util.Scanner;
-import ticket.TicketServiceMenu;
 
 public class GuestMenu {
     public static void guestMenu(){
